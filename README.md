@@ -1,4 +1,4 @@
-UUID :  08374876-37a1-4302-a9e3-196f1ba17e6b
+UUID : 自己生成一个新的uuid
 
 
 无需域名 通过cloudflare部署vless节点+tls+443端口
